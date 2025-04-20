@@ -1,7 +1,5 @@
 # MWGA - Web Page Tariff Simulator
-网页访问加税模拟器是一个讽刺性的油猴脚本，通过给网页浏览体验增加"关税"来模拟贸易战的影响。当您访问网站时，脚本会计算原始加载时间，然后应用您自定义的关税率（默认125%），并让您等待额外的时间——就像关税如何减缓国际贸易一样！
 
-该脚本为手机和半导体网站提供特殊"豁免"，反映了现实世界的贸易政策。
 **[点击这里查看中文版](README_CN.md)**
 
 ![MWGA](https://img.shields.io/badge/MWGA-Make%20Web%20Great%20Again-red)
@@ -13,6 +11,25 @@
 **Web Page Tariff Simulator** is a satirical Tampermonkey script that simulates the impact of trade wars by adding "tariffs" to your web browsing experience. When you visit a website, the script will calculate the original loading time, then apply your custom tariff rate (default 125%), and make you wait for the additional time - just like how tariffs slow down international trade!
 
 The script features special "exemptions" for mobile phone and semiconductor websites, mirroring real-world trade policies.
+
+## User Testimonials
+
+> _"Let me tell you folks, this progress bar—it's the reddest red, redder than Air Force One! When those terrible websites start spinning, I say STOP! We're gonna give them the best tariffs, the most tremendous tariffs in history!"_  
+> _"Chinese websites? They load in 0.01 seconds, that's cheating! So we have 125%—a sexy number, sexier than the golden elevators in Trump Tower!"_  
+> _"To all the haters saying tariffs slow down the internet—FAKE NEWS! This script is making web great again, greater than ever before!"_  
+> —— **WEBump** 🇺🇸 (Chief Architect of Cyber Border Wall) 💥 **MWGA!!!**
+
+> _"According to alternative facts, tariffs increased average American typing speed by 300%. Citizens now enjoy patriotic meditation during loading—perfect for reciting the Second Amendment!"_  
+> _"The '99% loading bug' is clearly Russian hackers' work. We're partnering with SpaceX to develop interplanetary tariff treaties—Mars websites won't escape Earth's standards!"_  
+> —— **White House Digital Tariff Spokesperson** 🦅 (Currently charging Statue of Liberty via USB-C)
+
+> _"Peer-reviewed studies prove dopamine levels rise 47% during tariff waits—the ultimate UX design! Instant-loading websites are clearly authoritarian algorithms!"_  
+> _"Chinese netizens secretly using this script proves America's digital leadership—they call it 'reverse cultural export' with Xi's tears!"_  
+> —— **Fox Tariff Channel** 📺 (Now streaming "Tariff Survivor: Browser Edition")
+
+> _"When I see Safari, I say STOP! Too Apple-y! We need tariffs! Hence 125%—higher than Sleepy Joe's nap count!"_  
+> _"From today, every American should worship this red progress bar—our Digital Wall, bigger & Trumpier than China's firewall!"_  
+> —— **WEBump** 🇺🇸 (Holding Holy Bible Tariff Calculator) 📈 **SCREAM WITH ME: MAKE WEB GREAT AGAIN!!! 🔥🔥🔥**
 
 ## Features
 
