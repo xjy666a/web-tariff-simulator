@@ -39,11 +39,12 @@ The script features special "exemptions" for mobile phone and semiconductor webs
 - 🔧 User-configurable exemption list
 - 📊 Visual progress bar and detailed statistics about loading times
 - 🌐 "Make Web Great Again" (MWGA) banner for the full satirical experience
+- 🌐 Added the WEBump game and the application for tariff relief, which further reflects the hatred of the people of the world for tariffs
 
 ## Installation
 
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension
-2. Click on the Tampermonkey icon and select "Create a new script"
+2. Click on the Tampermonkey icon and select "Create New Script" (or install directly from [greasyfork](https://greasyfork.org/zh-CN/scripts/533376-%E7%BD%91%E9%A1%B5%E8%AE%BF%E9%97%AE%E5%8A%A0%E7%A8%8E%E6%A8%A1%E6%8B%9F%E5%99%A8) and skip steps 2, 3, and 4) directly)
 3. Delete any default code and paste the entire content of `tax_on_webpages.user.js`
 4. Save the script (Ctrl+S or File > Save)
 5. The script will now run automatically on all websites
