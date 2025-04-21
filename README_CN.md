@@ -36,14 +36,14 @@
 - 🔧 用户可配置豁免列表
 - 📊 可视化进度条和详细的加载时间统计
 - 🌐 "让网络再次伟大"(MWGA)横幅，提供完整的讽刺体验
-
+- 🌐 添加了打WEB朗普的游戏和关税减免申请，更加体现了世界人民对关税的痛恨
 
 
 
 ## 安装方法
 
 1. 安装[Tampermonkey](https://www.tampermonkey.net/)浏览器扩展
-2. 点击Tampermonkey图标并选择"创建新脚本"
+2. 点击Tampermonkey图标并选择"创建新脚本"（或直接从[脚本猫](https://scriptcat.org/zh-CN/script-show-page/3251)安装，直接跳过2，3，4步骤）
 3. 删除任何默认代码并粘贴`tax_on_webpages.user.js`的全部内容
 4. 保存脚本（Ctrl+S或文件>保存）
 5. 脚本现在将在所有网站上自动运行
